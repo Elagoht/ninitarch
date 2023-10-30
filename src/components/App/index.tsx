@@ -14,9 +14,10 @@ const App: FC<Application> = (app) => {
       type="checkbox"
       value={app.package}
       name="apps"
-      onChange={(event) => setAppList(event.target.checked
-        ? [...appList, event.target.value]
-        : appList.filter((app) => app !== event.target.value)
+      checked={appList.includes(app.package)}
+      onChange={(event) => setAppList(event.currentTarget.checked
+        ? [...appList, event.currentTarget.value]
+        : appList.filter((app) => app !== event.currentTarget.value)
       )}
     />
 
