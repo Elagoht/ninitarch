@@ -1,0 +1,349 @@
+{
+    "Common Code Editors": [
+        {
+            "name": "Code",
+            "package": "code",
+            "image": "Development/code-oss.png"
+        },
+        {
+            "name": "VSCodium",
+            "package": "vscodium-bin",
+            "image": "Development/vscodium.png"
+        },
+        {
+            "name": "VSCode",
+            "package": "visual-studio-code-bin",
+            "image": "Development/vscode.png"
+        },
+        {
+            "name": "Neovim",
+            "package": "neovim",
+            "image": "Development/nvim.png"
+        },
+        {
+            "name": "Emacs",
+            "package": "emacs",
+            "image": "Development/emacs.png"
+        },
+        {
+            "name": "Kate",
+            "package": "kate",
+            "image": "Development/kate.png"
+        },
+        {
+            "name": "Kdevelop",
+            "package": "kdevelop",
+            "image": "Development/kdevelop.png"
+        }
+    ],
+    "Version Control": [
+        {
+            "name": "GitHub CLI",
+            "package": "github-cli",
+            "image": "Development/github.png"
+        },
+        {
+            "name": "GitHub Desktop",
+            "package": "github-desktop-bin",
+            "image": "Development/githubdesktop.png"
+        }
+    ],
+    "Think Visually": [
+        {
+            "name": "Draw.io Desktop",
+            "package": "drawio-desktop-bin",
+            "image": "Development/drawio.png"
+        },
+        {
+            "name": "Minder",
+            "package": "minder",
+            "image": "Development/minder.png"
+        },
+        {
+            "name": "Logisim",
+            "package": "logisim",
+            "image": "Development/logisim.png"
+        },
+        {
+            "name": "Geogebra",
+            "package": "geogebra",
+            "image": "Development/geogebra.png"
+        }
+    ],
+    "GUI Builders": [
+        {
+            "name": "Qt Creator",
+            "package": "qt5-tools",
+            "image": "Development/qtcreator.png"
+        },
+        {
+            "name": "Gnome Builder",
+            "package": "gnome-builder",
+            "image": "Development/gnomebuilder.png"
+        }
+    ],
+    "Virtualization": [
+        {
+            "name": "Oracle VM VirtualBox",
+            "package": "virtualbox",
+            "image": "Development/virtualbox.png"
+        },
+        {
+            "name": "QEMU Base",
+            "package": "qemu-base",
+            "image": "Development/qemu.png"
+        },
+        {
+            "name": "QEMU Full",
+            "package": "qemu-full",
+            "image": "Development/qemu.png"
+        },
+        {
+            "name": "Docker",
+            "package": "docker",
+            "image": "Development/docker.png"
+        }
+    ],
+    "Server and DataBase": [
+        {
+            "name": "Nginx",
+            "package": "nginx",
+            "image": "Development/nginx.png"
+        },
+        {
+            "name": "Apacher HTTP Server",
+            "package": "apache",
+            "image": "Development/apachehttpserver.png"
+        },
+        {
+            "name": "MongoDB",
+            "package": "mongodb-bin",
+            "image": "Development/mongodb.png"
+        },
+        {
+            "name": "MariaDB",
+            "package": "mariadb",
+            "image": "Development/mariadb.png"
+        },
+        {
+            "name": "DB Browser for SQLite",
+            "package": "sqlitebrowser",
+            "image": "Development/sqlitebrowser.png"
+        },
+        {
+            "name": "DBeaver",
+            "package": "dbeaver",
+            "image": "Development/dbeaver.png"
+        },
+        {
+            "name": "Azure Data Studio",
+            "package": "azuredatastudio-bin",
+            "image": "Development/azuredatastudio.png"
+        },
+        {
+            "name": "Filezilla",
+            "package": "filezilla",
+            "image": "Development/filezilla.png"
+        }
+    ],
+    "HTML / CSS": [
+        {
+            "name": "BlueFish Editor",
+            "package": "bluefish",
+            "image": "Development/bluefish.png"
+        },
+        {
+            "name": "Google Web Designer",
+            "package": "google-webdesigner",
+            "image": "Development/googlewebdesigner.png"
+        }
+    ],
+    "JavaScript": [
+        {
+            "name": "Node.js",
+            "package": "nodejs",
+            "image": "Development/nodejs.png"
+        },
+        {
+            "name": "Npm",
+            "package": "npm",
+            "image": "Development/npm.png"
+        },
+        {
+            "name": "Yarn",
+            "package": "yarn",
+            "image": "Development/yarn.png"
+        }
+    ],
+    "PHP": [
+        {
+            "name": "PHP",
+            "package": "php",
+            "image": "Development/php.png"
+        },
+        {
+            "name": "PHPStorm",
+            "package": "phpstorm ",
+            "image": "Development/phpstorm.png"
+        },
+        {
+            "name": "phpMyAdmin",
+            "package": "phpmyadmin",
+            "image": "Development/phpmyadmin.png"
+        },
+        {
+            "name": "Netbeans PHP",
+            "package": "netbeans-php",
+            "image": "Development/netbeans.png"
+        }
+    ],
+    "Java": [
+        {
+            "name": "Eclipse Java",
+            "package": "eclipse-java",
+            "image": "Development/eclipse.png"
+        },
+        {
+            "name": "Netbeans Java",
+            "package": "netbeans",
+            "image": "Development/netbeans.png"
+        },
+        {
+            "name": "IntelliJ IDEA",
+            "package": "intellij-idea-community-edition",
+            "image": "Development/intellijidea.png"
+        },
+        {
+            "name": "JDK latest",
+            "package": "jdk-openjdk",
+            "image": "Development/java.png"
+        },
+        {
+            "name": "JDK 17",
+            "package": "jdk17-openjdk",
+            "image": "Development/java.png"
+        },
+        {
+            "name": "JDK 11",
+            "package": "jdk11-openjdk",
+            "image": "Development/java.png"
+        },
+        {
+            "name": "JDK 8",
+            "package": "jdk8-openjdk",
+            "image": "Development/java.png"
+        }
+    ],
+    "Python": [
+        {
+            "name": "Pip",
+            "package": "python-pip",
+            "image": "Development/pip.png"
+        },
+        {
+            "name": "Pip X",
+            "package": "python-pipx",
+            "image": "Development/pipx.png"
+        },
+        {
+            "name": "bPython",
+            "package": "bpython",
+            "image": "Development/bpython.png"
+        },
+        {
+            "name": "PyCharm",
+            "package": "pycharm-community-edition",
+            "image": "Development/pycharm.png"
+        },
+        {
+            "name": "IDLE",
+            "package": "idle",
+            "image": "Development/python-idle.png"
+        },
+        {
+            "name": "IDLEX",
+            "package": "idlex",
+            "image": "Development/python-idle.png"
+        },
+        {
+            "name": "TK",
+            "package": "tk",
+            "image": "Development/tcltk.png"
+        }
+    ],
+    "C# ": [
+        {
+            "name": "Dotnet SDK",
+            "package": "dotnet-sdk",
+            "image": "Development/dotnet.png"
+        },
+        {
+            "name": "ASP.NET Runtime",
+            "package": "aspnet-runtime",
+            "image": "Development/aspnet.png"
+        }
+    ],
+    "C / C++": [
+        {
+            "name": "Code::Blocks",
+            "package": "codeblocks",
+            "image": "Development/codeblocks.png"
+        },
+        {
+            "name": "Eclipse C/C++",
+            "package": "eclipse-cpp",
+            "image": "Development/eclipse-cdt.png"
+        },
+        {
+            "name": "Netbeans C++",
+            "package": "netbeans-cpp",
+            "image": "Development/netbeans.png"
+        },
+        {
+            "name": "Linux Headers (.h files)",
+            "package": "linux-headers",
+            "image": "Development/header.png"
+        },
+        {
+            "name": "Linux LTS Headers",
+            "package": "linux-lts-headers",
+            "image": "Development/header.png"
+        },
+        {
+            "name": "Linux Zen Headers",
+            "package": "linux-zen-headers",
+            "image": "Development/header.png"
+        }
+    ],
+    "Rust": [
+        {
+            "name": "RustUp",
+            "package": "rustup",
+            "image": "Development/rust.png"
+        }
+    ],
+    "R": [
+        {
+            "name": "R",
+            "package": "r",
+            "image": "Development/r.png"
+        },
+        {
+            "name": "RStudio",
+            "package": "rstudio-desktop-bin",
+            "image": "Development/rstudio.png"
+        }
+    ],
+    "Prolog": [
+        {
+            "name": "Swi-Prolog",
+            "package": "swi-prolog",
+            "image": "Development/swiprolog.png"
+        },
+        {
+            "name": "GNU Prolog",
+            "package": "gprolog",
+            "image": "Development/gprolog.png"
+        }
+    ]
+}

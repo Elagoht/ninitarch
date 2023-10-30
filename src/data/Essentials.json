@@ -1,0 +1,491 @@
+{
+    "Emoji Typing": [
+        {
+            "name": "Noto Color Emoji Font",
+            "package": "noto-color-emoji-fontconfig",
+            "image": "Essentials/notoemoji.png"
+        },
+        {
+            "name": "Emote",
+            "package": "emote",
+            "image": "Essentials/emote.png"
+        }
+    ],
+    "Fonts & Character": [
+        {
+            "name": "Gnome Font Viewer",
+            "package": "gnome-font-viewer",
+            "image": "Essentials/gnomefontviewer.png"
+        },
+        {
+            "name": "GuCharmap",
+            "package": "gucharmap",
+            "image": "Essentials/gucharmap.png"
+        }
+    ],
+    "Shell Programs": [
+        {
+            "name": "Zsh",
+            "package": "zsh",
+            "image": "Essentials/zsh.png"
+        },
+        {
+            "name":"Fish",
+            "package":"fish",
+            "image":"Essentials/fish.png"
+        }
+    ],
+    "Drop-Down Terminal": [
+        {
+            "name": "Guake",
+            "package": "guake",
+            "image": "Essentials/guake.png"
+        },
+        {
+            "name": "Yakuake",
+            "package": "yakuake",
+            "image": "Essentials/yakuake.png"
+        },
+        {
+            "name": "Tilda",
+            "package": "tilda",
+            "image": "Essentials/tilda.png"
+        }
+    ],
+    "Video": [
+        {
+            "name": "Totem",
+            "package": "totem",
+            "image": "Essentials/totem.png"
+        },
+        {
+            "name": "MPV",
+            "package": "mpv",
+            "image": "Essentials/mpv.png"
+        },
+        {
+            "name": "Celluloid",
+            "package": "celluloid",
+            "image": "Essentials/celluloid.png"
+        },
+        {
+            "name": "VLC",
+            "package": "vlc",
+            "image": "Essentials/vlc.png"
+        }
+    ],
+    "Graphic Editors": [
+        {
+            "name": "GIMP",
+            "package": "gimp",
+            "image": "Essentials/gimp.png"
+        },
+        {
+            "name": "Inkscape",
+            "package": "inkscape",
+            "image": "Essentials/inkscape.png"
+        },
+        {
+            "name": "Drawing",
+            "package": "drawing",
+            "image": "Essentials/drawing.png"
+        },
+        {
+            "name": "Krita",
+            "package": "krita",
+            "image": "Essentials/krita.png"
+        },
+        {
+            "name": "Libre Sprite",
+            "package": "libresprite",
+            "image": "Essentials/libresprite.png"
+        },
+        {
+            "name": "Imagemagick",
+            "package": "imagemagick",
+            "image": "Essentials/imagemagick.png"
+        }
+    ],
+    "Sound Editor": [
+        {
+            "name": "Audacity",
+            "package": "audacity",
+            "image": "Essentials/audacity.png"
+        }
+    ],
+    "Music Composing": [
+        {
+            "name": "Musescore (latest)",
+            "package": "musescore",
+            "image": "Essentials/musescore.png"
+        },
+        {
+            "name": "Musescore 3",
+            "package": "musescore3",
+            "image": "Essentials/musescore.png"
+        },
+        {
+            "name": "LMMS",
+            "package": "lmms",
+            "image": "Essentials/lmms.png"
+        },
+        {
+            "name": "Ardour",
+            "package": "ardour",
+            "image": "Essentials/ardour.png"
+        },
+        {
+            "name": "Bitwig Studio",
+            "package": "bitwig-studio",
+            "image": "Essentials/bitwigstudio.png"
+        },
+        {
+            "name": "Tracktion Waveform",
+            "package": "tracktion-waveform",
+            "image": "Essentials/tracktionwaveform.png"
+        },
+        {
+            "name": "Reaper",
+            "package": "reaper",
+            "image": "Essentials/reaper.png"
+        }
+    ],
+    "Video Editors": [
+        {
+            "name": "Kdenlive",
+            "package": "kdenlive",
+            "image": "Essentials/kdenlive.png"
+        },
+        {
+            "name": "OpenShot",
+            "package": "openshot",
+            "image": "Essentials/openshot.png"
+        },
+        {
+            "name": "Shotcut",
+            "package": "shotcut",
+            "image": "Essentials/shotcut.png"
+        },
+        {
+            "name": "Davinci Resolve",
+            "package": "davinci-resolve",
+            "image": "Essentials/davinciresolve.png"
+        },
+        {
+            "name": "Davinci Resolve Studio",
+            "package": "davinci-resolve-studio",
+            "image": "Essentials/davinciresolve.png"
+        }
+    ],
+    "Screen Recorder": [
+        {
+            "name": "OBS",
+            "package": "obs-studio",
+            "image": "Essentials/obs.png"
+        },
+        {
+            "name": "SimpleScreenRecorder",
+            "package": "simplescreenrecorder",
+            "image": "Essentials/simplescreenrecorder.png"
+        },
+        {
+            "name": "Kazam",
+            "package": "kazam",
+            "image": "Essentials/kazam.png"
+        }
+    ],
+    "Web Browsers": [
+        {
+            "name": "Firefox",
+            "package": "firefox",
+            "image": "Essentials/firefox.png"
+        },
+        {
+            "name": "Google Chrome",
+            "package": "google-chrome",
+            "image": "Essentials/googlechrome.png"
+        },
+        {
+            "name": "Brave",
+            "package": "brave-bin",
+            "image": "Essentials/brave.png"
+        },
+        {
+            "name": "Opera",
+            "package": "opera",
+            "image": "Essentials/opera.png"
+        },
+        {
+            "name": "Microsoft Edge",
+            "package": "microsoft-edge-stable-bin",
+            "image": "Essentials/microsoftedge.png"
+        },
+        {
+            "name": "Yandex",
+            "package": "yandex-browser",
+            "image": "Essentials/yandex.png"
+        },
+        {
+            "name": "Vivaldi",
+            "package": "vivaldi",
+            "image": "Essentials/vivaldi.png"
+        },
+        {
+            "name": "Qute Browser",
+            "package": "qutebrowser",
+            "image": "Essentials/qutebrowser.png"
+        },
+        {
+            "name": "Epiphany",
+            "package": "Epiphany",
+            "image": "Essentials/epiphany.png"
+        },
+        {
+            "name": "Chromium Browser",
+            "package": "chromium",
+            "image": "Essentials/chromiumbrowser.png"
+        },
+        {
+            "name": "Librewolf",
+            "package": "librewolf-bin",
+            "image": "Essentials/librewolf.png"
+        },
+        {
+            "name": "Ungoogled Chromium Browser",
+            "package": "ungoogled-chromium-bin",
+            "image": "Essentials/ungoogledchromiumbrowser.png"
+        },
+        {
+            "name": "Thorium Browser",
+            "package": "thorium-browser-bin",
+            "image": "Essentials/thorium.png"
+        },
+        {
+            "name": "Waterfox",
+            "package": "waterfox",
+            "image": "Essentials/waterfox.png"
+        }
+    ],
+    "Music": [
+        {
+            "name": "Spotify",
+            "package": "spotify",
+            "image": "Essentials/spotify.png"
+        },
+        {
+            "name": "Lollypop",
+            "package": "lollypop",
+            "image": "Essentials/lollypop.png"
+        },
+        {
+            "name": "Elisa",
+            "package": "elisa",
+            "image": "Essentials/elisa.png"
+        },
+        {
+            "name": "Rhythmbox",
+            "package": "rhythmbox",
+            "image": "Essentials/rhythmbox.png"
+        },
+        {
+            "name": "Clementine",
+            "package": "clementine",
+            "image": "Essentials/clementine.png"
+        }
+    ],
+    "PDF Viewer": [
+        {
+            "name": "Okular",
+            "package": "okular",
+            "image": "Essentials/okular.png"
+        },
+        {
+            "name": "XViewer",
+            "package": "xviewer",
+            "image": "Essentials/xviewer.png"
+        }
+    ],
+    "Office Suits": [
+        {
+            "name": "Libre Office Still (Stable)",
+            "package": "libreoffice-still",
+            "image": "Essentials/libreoffice.png"
+        },
+        {
+            "name": "Libre Office Fresh (Bleeding Edge)",
+            "package": "libreoffice-fresh",
+            "image": "Essentials/libreoffice.png"
+        },
+        {
+            "name": "Only Office",
+            "package": "onlyoffice-bin",
+            "image": "Essentials/onlyoffice.png"
+        },
+        {
+            "name": "WPS Office",
+            "package": "wps-office",
+            "image": "Essentials/wpsoffice.png"
+        },
+        {
+            "name": "SoftMaker Free Office",
+            "package": "freeoffice",
+            "image": "Essentials/freeoffice.png"
+        }
+    ],
+    "E-mail": [
+        {
+            "name": "Mailspring",
+            "package": "mailspring",
+            "image": "Essentials/mailspring.png"
+        },
+        {
+            "name": "Thunderbird",
+            "package": "thunderbird",
+            "image": "Essentials/thunderbird.png"
+        },
+        {
+            "name": "Evolution",
+            "package": "evolution",
+            "image": "Essentials/evolution.png"
+        },
+        {
+            "name": "Geary",
+            "package": "geary",
+            "image": "Essentials/geary.png"
+        }
+    ],
+    "Calendar": [
+        {
+            "name": "Gnome Calendar",
+            "package": "gnome-calendar",
+            "image": "Essentials/gnomecalendar.png"
+        },
+        {
+            "name": "kOrganizer",
+            "package": "korganizer",
+            "image": "Essentials/korganizer.png"
+        }
+    ],
+    "Contacts": [
+        {
+            "name": "Gnome Contacts",
+            "package": "gnome-contacts",
+            "image": "Essentials/gnomecontacts.png"
+        }
+    ],
+    "Dictionary and Wiki": [
+        {
+            "name": "Gnome Dictionary",
+            "package": "gnome-dictionary",
+            "image": "Essentials/gnomedictionary.png"
+        },
+        {
+            "name": "Golden Dict",
+            "package": "goldendict-git",
+            "image": "Essentials/goldendict.png"
+        },
+        {
+            "name": "Dialect",
+            "package": "dialect",
+            "image": "Essentials/dialect.png"
+        },
+        {
+            "name": "Wike",
+            "package": "wike",
+            "image": "Essentials/wike.png"
+        }
+    ],
+    "Calculator and Plot": [
+        {
+            "name": "Gnome Calculator",
+            "package": "gnome-calculator",
+            "image": "Essentials/gnomecalculator.png"
+        },
+        {
+            "name": "Galculator",
+            "package": "galculator",
+            "image": "Essentials/galculator.png"
+        },
+        {
+            "name": "Geogebra",
+            "package": "geogebra",
+            "image": "Essentials/geogebra.png"
+        },
+        {
+            "name": "Plots",
+            "package": "plots",
+            "image": "Essentials/plots.png"
+        }
+    ],
+    "Messaging and Communication": [
+        {
+            "name": "Discord",
+            "package": "discord",
+            "image": "Gaming/discord.png"
+        },
+        {
+            "name": "Telegram",
+            "package": "telegram-desktop",
+            "image": "Essentials/telegram.png"
+        },
+        {
+            "name": "Signal",
+            "package": "signal-desktop",
+            "image": "Essentials/signal.png"
+        },
+        {
+            "name": "Whatsapp (Unofficial)",
+            "package": "whatsapp-nativefier-autostart-tray-hook",
+            "image": "Essentials/whatsapp.png"
+        },
+        {
+            "name": "Zoom",
+            "package": "zoom",
+            "image": "Essentials/zoom.png"
+        },
+        {
+            "name": "Skype",
+            "package": "skypeforlinux-stable-bin",
+            "image": "Essentials/skype.png"
+        },
+        {
+            "name": "Ferdium (A.K.A. Ferdi)",
+            "package": "ferdium-bin",
+            "image": "Essentials/ferdium.png"
+        },
+        {
+            "name": "Hexchat",
+            "package": "hexchat",
+            "image": "Essentials/hexchat.png"
+        }
+    ],
+    "Torrent Clients": [
+        {
+            "name": "Deluge",
+            "package": "deluge-gtk",
+            "image": "Essentials/deluge.png"
+        },
+        {
+            "name": "Transmission",
+            "package": "transmission-gtk",
+            "image": "Essentials/transmission.png"
+        },
+        {
+            "name": "QBittorrent",
+            "package": "qbittorrent",
+            "image": "Essentials/qbittorrent.png"
+        }
+    ],
+    "Cloud Storage": [
+        {
+            "name": "Mega Sync",
+            "package": "megasync-bin",
+            "image": "Essentials/megasync.png"
+        },
+        {
+            "name": "PCloud",
+            "package": "pcloud-drive",
+            "image": "Essentials/pcloud.png"
+        }
+    ]
+}

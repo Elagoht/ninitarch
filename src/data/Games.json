@@ -1,0 +1,172 @@
+{
+    "Rhythm Games": [
+        {
+            "name": "Clone Hero",
+            "package": "clonehero",
+            "image": "Games/clonehero.png"
+        },
+        {
+            "name": "Osu!",
+            "package": "osu",
+            "image": "Games/osu.png"
+        }
+    ],
+    "Strategy Games": [
+        {
+            "name": "Mindustry",
+            "package": "mindustry-bin",
+            "image": "Games/mindustry.png"
+        },
+        {
+            "name": "0 A.D.",
+            "package": "0ad",
+            "image": "Games/0ad.png"
+        },
+        {
+            "name": "OpenRA (Red Alert)",
+            "package": "openra",
+            "image": "Games/openra.png"
+        },
+        {
+            "name": "Warzone2100",
+            "package": "warzone2100",
+            "image": "Games/warzone2100.png"
+        },
+        {
+            "name": "Sudo Mice",
+            "package": "sudo-mice-bin",
+            "image": "Games/sudomice.png"
+        },
+        {
+            "name": "Battle for Wesnoth",
+            "package": "wesnoth",
+            "image": "Games/wesnoth.png"
+        }
+    ],
+    "First Person Shooter": [
+        {
+            "name": "AssaultCube Reloaded",
+            "package": "assaultcube-reloaded",
+            "image": "Games/assaultcubereloaded.png"
+        },
+        {
+            "name": "Xonotic",
+            "package": "xonotic",
+            "image": "Games/xonotic.png"
+        }
+    ],
+    "Sandbox": [
+        {
+            "name": "Minecraft Launcher",
+            "package": "minecraft-launcher",
+            "image": "Games/minecraft.png"
+        },
+        {
+            "name": "Prism Launcher",
+            "package": "prismlauncher-qt5-bin",
+            "image": "Games/prismlauncher.png"
+        },
+        {
+            "name": "Minetest",
+            "package": "minetest",
+            "image": "Games/minetest.png"
+        }
+    ],
+    "Simulation": [
+        {
+            "name": "OpenTTD (Transport Tycoon Deluxe)",
+            "package": "openttd",
+            "image": "Games/openttd.png"
+        }
+    ],
+    "Platformer": [
+        {
+            "name": "SuperTux 2",
+            "package": "supertux",
+            "image": "Games/supertux.png"
+        },
+        {
+            "name": "Frogatto",
+            "package": "frogatto",
+            "image": "Games/frogatto.png"
+        },
+        {
+            "name": "Hedgewars",
+            "package": "hedgewars",
+            "image": "Games/hedgewars.png"
+        },
+        {
+            "name": "Teeworlds",
+            "package": "teeworlds",
+            "image": "Games/teeworlds.png"
+        }
+    ],
+    "Racing": [
+        {
+            "name": "SuperTuxKart",
+            "package": "supertuxkart",
+            "image": "Games/supertuxkart.png"
+        }
+    ],
+    "Card Game": [
+        {
+            "name": "Aisleriot Solitaire",
+            "package": "aisleriot",
+            "image": "Games/aisleriot.png"
+        }
+    ],
+    "Space Shooter": [
+        {
+            "name": "Chromium B.S.U",
+            "package": "chromium-bsu",
+            "image": "Games/chromiumbsu.png"
+        },
+        {
+            "name": "Open Tyrian 2000",
+            "package": "opentyrian2000",
+            "image": "Games/tyrian2000.png"
+        }
+    ],
+    "Casual": [
+        {
+            "name": "Gnome 2048",
+            "package": "gnome-2048",
+            "image": "Games/gnome2048.png"
+        },
+        {
+            "name": "Gnome Chess",
+            "package": "gnome-chess",
+            "image": "Games/gnomechess.png"
+        },
+        {
+            "name": "Gnome Sudoku",
+            "package": "gnome-sudoku",
+            "image": "Games/gnomesudoku.png"
+        },
+        {
+            "name": "Gnome Mines",
+            "package": "gnome-mines",
+            "image": "Games/gnomemines.png"
+        },
+        {
+            "name": "Gnome Mahjongg",
+            "package": "gnome-mahjongg",
+            "image": "Games/gnomemahjongg.png"
+        },
+        {
+            "name": "Gnome Nibbles",
+            "package": "gnome-nibbles",
+            "image": "Games/gnomenibbles.png"
+        },
+        {
+            "name": "Gnome Reversi",
+            "package": "iagno",
+            "image": "Games/gnomereversi.png"
+        },
+        {
+            "name": "Gnome Robots",
+            "package": "gnome-robots",
+            "image": "Games/gnomerobots.png"
+        }
+    ]
+}
