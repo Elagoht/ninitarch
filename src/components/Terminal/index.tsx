@@ -21,8 +21,8 @@ const Terminal: FC = () => {
       } </span>
       <span style={{ color: "#ff00ff" }}>{
         aurHelper === "pamac"
-          ? "--noconfirm"
-          : "--no-confirm"
+          ? "--no-confirm"
+          : "--noconfirm"
       } </span>
       <span style={{ color: "#ffff00" }}>
         {appList.join(" ")}
