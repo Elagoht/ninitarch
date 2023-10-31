@@ -293,6 +293,18 @@
             "image": "Essentials/clementine.png"
         }
     ],
+    "Clean Up": [
+        {
+            "name": "Bleachbit",
+            "package": "bleachbit",
+            "image": "Essentials/bleachbit.png"
+        },
+        {
+            "name": "Stacer",
+            "package": "stacer",
+            "image": "Essentials/stacer.png"
+        }
+    ],
     "PDF Viewer": [
         {
             "name": "Okular",
@@ -364,6 +376,11 @@
             "name": "kOrganizer",
             "package": "korganizer",
             "image": "Essentials/korganizer.png"
+        },
+        {
+            "name": "Merkuro",
+            "package": "merkuro",
+            "image": "Essentials/merkuro.png"
         }
     ],
     "Contacts": [

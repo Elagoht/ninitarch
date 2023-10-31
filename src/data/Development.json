@@ -70,6 +70,13 @@
             "image": "Development/geogebra.png"
         }
     ],
+    "UI/IX": [
+        {
+            "name": "Figma",
+            "package": "figma-linux-bin",
+            "image": "Development/figma.png"
+        }
+    ],
     "GUI Builders": [
         {
             "name": "Qt Creator",
@@ -139,6 +146,11 @@
             "name": "Azure Data Studio",
             "package": "azuredatastudio-bin",
             "image": "Development/azuredatastudio.png"
+        },
+        {
+            "name": "Postman",
+            "package": "postman-bin",
+            "image": "Development/postman.png"
         },
         {
             "name": "Filezilla",

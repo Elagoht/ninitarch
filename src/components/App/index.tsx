@@ -21,7 +21,14 @@ const App: FC<Application> = (app) => {
       )}
     />
 
-    <Image src={`/Assets/Apps/${app.image}`} alt={app.name} width={32} height={32} className="aspect-square w-8 h-8" />
+    <Image
+     src={`/Assets/Apps/${app.image}`}
+      alt={app.name}
+       width={32}
+        height={32} 
+        quality={100}
+    className="aspect-square w-8 h-8" 
+    />
 
     <div className="flex flex-col w-full">
       <h4 className="leading-tight line-clamp-1 text-sm" translate="no">
