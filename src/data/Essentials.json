@@ -30,9 +30,9 @@
             "image": "Essentials/zsh.png"
         },
         {
-            "name":"Fish",
-            "package":"fish",
-            "image":"Essentials/fish.png"
+            "name": "Fish",
+            "package": "fish",
+            "image": "Essentials/fish.png"
         }
     ],
     "Drop-Down Terminal": [
@@ -72,6 +72,11 @@
             "name": "VLC",
             "package": "vlc",
             "image": "Essentials/vlc.png"
+        },
+        {
+            "name": "Kodi",
+            "package": "kodi",
+            "image": "Essentials/kodi.png"
         }
     ],
     "Graphic Editors": [
@@ -104,6 +109,21 @@
             "name": "Imagemagick",
             "package": "imagemagick",
             "image": "Essentials/imagemagick.png"
+        },
+        {
+            "name": "Darktable",
+            "package": "darktable",
+            "image": "Essentials/darktable.png"
+        },
+        {
+            "name": "Rawtherapee",
+            "package": "rawtherapee",
+            "image": "Essentials/rawtherapee.png"
+        },
+        {
+            "name": "Photoflare",
+            "package": "photoflare",
+            "image": "Essentials/photoflare.png"
         }
     ],
     "Sound Editor": [
@@ -172,9 +192,24 @@
             "image": "Essentials/davinciresolve.png"
         },
         {
-            "name": "Davinci Resolve Studio",
+            "name": "Davinci Resolve Studio (Paid)",
             "package": "davinci-resolve-studio",
             "image": "Essentials/davinciresolve.png"
+        },
+        {
+            "name": "Flowblade",
+            "package": "flowblade",
+            "image": "Essentials/flowblade.png"
+        },
+        {
+            "name": "Lightworks",
+            "package": "lightworks",
+            "image": "Essentials/lightworks.png"
+        },
+        {
+            "name": "Blender (Video Editor & 3D Modeling)",
+            "package": "blender",
+            "image": "Development/blender.png"
         }
     ],
     "Screen Recorder": [
@@ -315,6 +350,11 @@
             "name": "XViewer",
             "package": "xviewer",
             "image": "Essentials/xviewer.png"
+        },
+        {
+            "name": "Evince",
+            "package": "evince",
+            "image": "Essentials/evince.png"
         }
     ],
     "Office Suits": [
@@ -364,6 +404,11 @@
             "name": "Geary",
             "package": "geary",
             "image": "Essentials/geary.png"
+        },
+        {
+            "name": "Kmail",
+            "package": "kmail",
+            "image": "Essentials/kmail.png"
         }
     ],
     "Calendar": [
@@ -388,6 +433,16 @@
             "name": "Gnome Contacts",
             "package": "gnome-contacts",
             "image": "Essentials/gnomecontacts.png"
+        },
+        {
+            "name": "kAddressBook",
+            "package": "kaddressbook",
+            "image": "Essentials/kaddressbook.png"
+        },
+        {
+            "name": "Kontact",
+            "package": "kontact",
+            "image": "Essentials/kontact.png"
         }
     ],
     "Dictionary and Wiki": [
@@ -456,6 +511,11 @@
             "image": "Essentials/whatsapp.png"
         },
         {
+            "name": "Slack",
+            "package": "slack-desktop",
+            "image": "Essentials/slack.png"
+        },
+        {
             "name": "Zoom",
             "package": "zoom",
             "image": "Essentials/zoom.png"
@@ -474,6 +534,11 @@
             "name": "Hexchat",
             "package": "hexchat",
             "image": "Essentials/hexchat.png"
+        },
+        {
+            "name": "Pidgin",
+            "package": "pidgin",
+            "image": "Essentials/pidgin.png"
         }
     ],
     "Torrent Clients": [
@@ -503,6 +568,21 @@
             "name": "PCloud",
             "package": "pcloud-drive",
             "image": "Essentials/pcloud.png"
+        },
+        {
+            "name": "Dropbox",
+            "package": "dropbox",
+            "image": "Essentials/dropbox.png"
+        },
+        {
+            "name": "Nextcloud Client",
+            "package": "nextcloud-client",
+            "image": "Essentials/nextcloud.png"
+        },
+        {
+            "name": "Owncloud Client",
+            "package": "owncloud-client",
+            "image": "Essentials/owncloud.png"
         }
     ]
 }

@@ -41,6 +41,11 @@
             "name": "Battle for Wesnoth",
             "package": "wesnoth",
             "image": "Games/wesnoth.png"
+        },
+        {
+            "name": "OpenXcom",
+            "package": "openxcom-git",
+            "image": "Games/openxcom.png"
         }
     ],
     "First Person Shooter": [
@@ -53,6 +58,16 @@
             "name": "Xonotic",
             "package": "xonotic",
             "image": "Games/xonotic.png"
+        },
+        {
+            "name": "Urban Terror",
+            "package": "urbanterror",
+            "image": "Games/urbanterror.png"
+        },
+        {
+            "name": "Red Eclipse",
+            "package": "redeclipse-bin",
+            "image": "Games/redeclipse.png"
         }
     ],
     "Sandbox": [
@@ -77,6 +92,13 @@
             "name": "OpenTTD (Transport Tycoon Deluxe)",
             "package": "openttd",
             "image": "Games/openttd.png"
+        }
+    ],
+    "Roguelike": [
+        {
+            "name": "Shattered Pixel Dungeon",
+            "package": "shattered-pixel-dungeon",
+            "image": "Games/shatteredpixeldungeon.png"
         }
     ],
     "Platformer": [
@@ -117,14 +139,14 @@
     ],
     "Space Shooter": [
         {
-            "name": "Chromium B.S.U",
-            "package": "chromium-bsu",
-            "image": "Games/chromiumbsu.png"
-        },
-        {
             "name": "Open Tyrian 2000",
             "package": "opentyrian2000",
             "image": "Games/tyrian2000.png"
+        },
+        {
+            "name": "Chromium B.S.U",
+            "package": "chromium-bsu",
+            "image": "Games/chromiumbsu.png"
         }
     ],
     "Casual": [

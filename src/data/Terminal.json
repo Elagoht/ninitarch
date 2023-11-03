@@ -14,6 +14,26 @@
             "name": "Youtube-dl",
             "package": "youtube-dl",
             "image": "Terminal/youtube-dl.png"
+        },
+        {
+            "name": "Curl",
+            "package": "curl",
+            "image": "Terminal/curl.png"
+        },
+        {
+            "name": "Wget",
+            "package": "wget",
+            "image": "Terminal/wget.png"
+        },
+        {
+            "name": "Ls Deluxe",
+            "package": "lsd",
+            "image": "Terminal/lsd.png"
+        },
+        {
+            "name": "git",
+            "package": "git",
+            "image": "Development/git.png"
         }
     ],
     "Text Editors": [

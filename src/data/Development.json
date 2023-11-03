@@ -38,6 +38,11 @@
     ],
     "Version Control": [
         {
+            "name": "Git",
+            "package": "git",
+            "image": "Development/git.png"
+        },
+        {
             "name": "GitHub CLI",
             "package": "github-cli",
             "image": "Development/github.png"
@@ -46,6 +51,11 @@
             "name": "GitHub Desktop",
             "package": "github-desktop-bin",
             "image": "Development/githubdesktop.png"
+        },
+        {
+            "name": "GitKraken",
+            "package": "gitkraken",
+            "image": "Development/gitkraken.png"
         }
     ],
     "Think Visually": [
@@ -70,11 +80,21 @@
             "image": "Development/geogebra.png"
         }
     ],
-    "UI/IX": [
+    "UI/UX": [
         {
             "name": "Figma",
             "package": "figma-linux-bin",
             "image": "Development/figma.png"
+        },
+        {
+            "name": "Inkscape",
+            "package": "inkscape",
+            "image": "Essentials/inkscape.png"
+        },
+        {
+            "name": "GIMP",
+            "package": "gimp",
+            "image": "Essentials/gimp.png"
         }
     ],
     "GUI Builders": [
@@ -87,6 +107,11 @@
             "name": "Gnome Builder",
             "package": "gnome-builder",
             "image": "Development/gnomebuilder.png"
+        },
+        {
+            "name": "Glade",
+            "package": "glade",
+            "image": "Development/glade.png"
         }
     ],
     "Virtualization": [
@@ -156,6 +181,11 @@
             "name": "Filezilla",
             "package": "filezilla",
             "image": "Development/filezilla.png"
+        },
+        {
+            "name": "PuTTY",
+            "package": "putty",
+            "image": "Development/putty.png"
         }
     ],
     "HTML / CSS": [
@@ -168,6 +198,11 @@
             "name": "Google Web Designer",
             "package": "google-webdesigner",
             "image": "Development/googlewebdesigner.png"
+        },
+        {
+            "name": "Tailwind CSS",
+            "package": "tailwindcss",
+            "image": "Development/tailwindcss.png"
         }
     ],
     "JavaScript": [
@@ -185,6 +220,11 @@
             "name": "Yarn",
             "package": "yarn",
             "image": "Development/yarn.png"
+        },
+        {
+            "name": "Bun",
+            "package": "bun-bin",
+            "image": "Development/bun.png"
         }
     ],
     "PHP": [
@@ -207,6 +247,11 @@
             "name": "Netbeans PHP",
             "package": "netbeans-php",
             "image": "Development/netbeans.png"
+        },
+        {
+            "name": "XAMPP",
+            "package": "xampp",
+            "image": "Development/xampp.png"
         }
     ],
     "Java": [
@@ -293,6 +338,21 @@
             "name": "ASP.NET Runtime",
             "package": "aspnet-runtime",
             "image": "Development/aspnet.png"
+        },
+        {
+            "name": "Mono",
+            "package": "mono",
+            "image": "Development/mono.png"
+        },
+        {
+            "name": "MonoDevelop",
+            "package": "monodevelop-bin",
+            "image": "Development/monodevelop.png"
+        },
+        {
+            "name": "Rider",
+            "package": "rider",
+            "image": "Development/rider.png"
         }
     ],
     "C / C++": [
@@ -312,6 +372,21 @@
             "image": "Development/netbeans.png"
         },
         {
+            "name": "CLion",
+            "package": "clion",
+            "image": "Development/clion.png"
+        },
+        {
+            "name": "GCC",
+            "package": "gcc",
+            "image": "Development/gcc.png"
+        },
+        {
+            "name": "CMake",
+            "package": "cmake",
+            "image": "Development/cmake.png"
+        },
+        {
             "name": "Linux Headers (.h files)",
             "package": "linux-headers",
             "image": "Development/header.png"
@@ -329,7 +404,7 @@
     ],
     "Rust": [
         {
-            "name": "RustUp",
+            "name": "RustUp (All-in-one)",
             "package": "rustup",
             "image": "Development/rust.png"
         }
@@ -344,6 +419,23 @@
             "name": "RStudio",
             "package": "rstudio-desktop-bin",
             "image": "Development/rstudio.png"
+        }
+    ],
+    "3D Modeling": [
+        {
+            "name": "Blender",
+            "package": "blender",
+            "image": "Development/blender.png"
+        },
+        {
+            "name": "FreeCAD",
+            "package": "freecad",
+            "image": "Development/freecad.png"
+        },
+        {
+            "name": "OpenSCAD",
+            "package": "openscad",
+            "image": "Development/openscad.png"
         }
     ],
     "Prolog": [
