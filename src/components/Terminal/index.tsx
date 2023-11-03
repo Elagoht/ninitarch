@@ -1,13 +1,17 @@
 "use client"
 
 import { useAppListContext } from '@/context/apps'
-import React, { FC, useState } from 'react'
+import React, { FC, useEffect, useState } from 'react'
 
 const Terminal: FC = () => {
 
-  const { appList } = useAppListContext()
+  const { appList, setAppList } = useAppListContext()
 
   const [aurHelper, setAurHelper] = useState<string>("paru")
+
+  useEffect(() => {
+    setAppList([])
+  }, [setAppList])
 
   return <div
     className="bg-black text-white p-8" translate="no"
