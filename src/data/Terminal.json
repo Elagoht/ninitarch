@@ -34,6 +34,16 @@
             "name": "git",
             "package": "git",
             "image": "Development/git.png"
+        },
+        {
+            "name": "Xclip",
+            "package": "xclip",
+            "image": "Terminal/xclip.png"
+        },
+        {
+            "name": "Xinput",
+            "package": "xorg-xinput",
+            "image": "Terminal/xinput.png"
         }
     ],
     "Text Editors": [

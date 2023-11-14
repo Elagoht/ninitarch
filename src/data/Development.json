@@ -48,6 +48,11 @@
             "image": "Development/github.png"
         },
         {
+            "name": "Gitlab CLI",
+            "package": "gitlab-cli",
+            "image": "Development/gitlab-cli.png"
+        },
+        {
             "name": "GitHub Desktop",
             "package": "github-desktop-bin",
             "image": "Development/githubdesktop.png"
@@ -83,7 +88,7 @@
     "UI/UX": [
         {
             "name": "Figma",
-            "package": "figma-linux-bin",
+            "package": "figma-linux",
             "image": "Development/figma.png"
         },
         {

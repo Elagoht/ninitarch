@@ -301,6 +301,28 @@
             "image": "Essentials/waterfox.png"
         }
     ],
+    "Remote Desktop": [
+        {
+            "name": "Anydesk",
+            "package": "anydesk-bin",
+            "image": "Essentials/anydesk.png"
+        },
+        {
+            "name": "TeamViewer",
+            "package": "teamviewer",
+            "image": "Essentials/teamviewer.png"
+        },
+        {
+            "name": "Remmina",
+            "package": "remmina",
+            "image": "Essentials/remmina.png"
+        },
+        {
+            "name": "Rustdesk",
+            "package": "rustdesk-bin",
+            "image": "Essentials/rustdesk.png"
+        }
+    ],
     "Music": [
         {
             "name": "Spotify",
@@ -467,6 +489,28 @@
             "image": "Essentials/wike.png"
         }
     ],
+    "Disk Manager": [
+        {
+            "name": "Gnome Disks",
+            "package": "gnome-disk-utility",
+            "image": "Essentials/gnome-disk-utility.png"
+        },
+        {
+            "name": "Gparted",
+            "package": "gparted",
+            "image": "Essentials/gparted.png"
+        },
+        {
+            "name": "KDE Partition Manager",
+            "package": "partitionmanager",
+            "image": "Essentials/partitionmanager.png"
+        },
+        {
+            "name": "Baobab",
+            "package": "baobab",
+            "image": "Essentials/baobab.png"
+        }
+    ],
     "Calculator and Plot": [
         {
             "name": "Gnome Calculator",
@@ -507,7 +551,7 @@
         },
         {
             "name": "Whatsapp (Unofficial)",
-            "package": "whatsapp-nativefier-autostart-tray-hook",
+            "package": "whatsapp-for-linux",
             "image": "Essentials/whatsapp.png"
         },
         {
