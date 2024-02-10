@@ -81,7 +81,7 @@
         },
         {
             "name": "Goverlay",
-            "package": "goverlay-bin",
+            "package": "goverlay",
             "image": "Gaming/goverlay.png"
         }
     ],

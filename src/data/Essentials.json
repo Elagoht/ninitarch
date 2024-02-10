@@ -11,6 +11,13 @@
             "image": "Essentials/emote.png"
         }
     ],
+    "Web Apps": [
+        {
+            "name": "Webapp Manager",
+            "package": "webapp-manager",
+            "image": "Essentials/webappmanager.png"
+        }
+    ],
     "Fonts & Character": [
         {
             "name": "Gnome Font Viewer",

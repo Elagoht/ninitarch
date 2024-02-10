@@ -78,7 +78,7 @@
         },
         {
             "name": "Prism Launcher",
-            "package": "prismlauncher-qt5-bin",
+            "package": "prismlauncher-qt5",
             "image": "Games/prismlauncher.png"
         },
         {
