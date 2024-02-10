@@ -18,20 +18,19 @@ const Terminal: FC = () => {
   >
     <code>
       <span style={{ color: "#00ff00" }}>{aurHelper}</span>
-      <span style={{ color: "#ffffff" }}>{
-        aurHelper !== "pamac"
-          ? " -S"
-          : " install"
+
+      <span style={{ color: "#ffffff" }}>{aurHelper !== "pamac"
+        ? " -S"
+        : " install"
       } </span>
-      <span style={{ color: "#ff00ff" }}>{
-        aurHelper === "pamac"
-          ? "--no-confirm"
-          : "--noconfirm"
-      } </span>
+
+      <span style={{ color: "#ff00ff" }}>--needed </span>
+
       <span style={{ color: "#ffff00" }}>
         {appList.join(" ")}
       </span>
     </code>
+
     <div className="-m-8 mt-8 pl-8 bg-stone-900">
       {["paru", "yay", "pamac"].map((helper) =>
         <button
