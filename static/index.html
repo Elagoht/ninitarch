@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Select the apps you want, and NinitArch will create a script to install them all for you."
+    />
+    <meta
+      name="keywords"
+      content="ninitarch, arch linux, paru, yay, pamac, aur, ninite, ninite for arch linux"
+    />
+    <meta name="author" content="Furkan Baytekin" />
+    <meta property="og:type" content="website" />
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:url" content="https://ninitarch.vercel.app/" />
+    <meta property="og:site_name" content="NinitArch" />
+    <meta property="og:title" content="NinitArch: Ninite for Arch Linux" />
+    <meta
+      property="og:description"
+      content="Select the apps you want, and NinitArch will create a script to install them all for you."
+    />
+
+    <title>NinitArch: Ninite for Arch Linux</title>
+
+    <link rel="icon" type="image/x-icon" href="/public/favicon.ico" />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="16x16"
+      href="/public/favicon-16x16.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="/public/favicon-32x32.png"
+    />
+    <link
+      rel="apple-touch-icon"
+      sizes="180x180"
+      href="/public/apple-touch-icon.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="192x192"
+      href="/public/android-chrome-192x192.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="512x512"
+      href="/public/android-chrome-512x512.png"
+    />
+    <link rel="manifest" href="/public/manifest.json" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap"
+      rel="stylesheet"
+    />
+
+    <link rel="stylesheet" href="/static/styles.css" />
+  </head>
+  <body>
+    <div id="hero-image">
+      <img src="/public/android-chrome-192x192.png" alt="NinitArch Logo" />
+      <h1>
+        NinitArch: <a href="https://ninite.com/">Ninite</a> for Arch Linux
+      </h1>
+      <span
+        >Select the apps you want,<br />
+        NinitArch will create a script to install them all for you.</span
+      >
+      <p>
+        We assume that you have already installed an AUR helper, such as
+        <a
+          href="https://aur.archlinux.org/packages/yay-bin/"
+          target="_blank"
+          rel="noreferrer"
+          >yay</a
+        >,
+        <a
+          href="https://aur.archlinux.org/packages/paru-bin/"
+          target="_blank"
+          rel="noreferrer"
+          >paru</a
+        >
+        or
+        <a
+          href="https://aur.archlinux.org/packages/pamac-aur/"
+          target="_blank"
+          rel="noreferrer"
+          >pamac</a
+        >.
+      </p>
+      <small>
+        Created with ❤️ by
+        <a href="https://github.com/Elagoht">Furkan Baytekin</a>.
+      </small>
+    </div>
+
+    <terminal-display></terminal-display>
+
+    <form id="app-list">
+      <div id="categories-container"></div>
+    </form>
+
+    <button id="scroll-to-top" aria-label="Scroll to top">↑</button>
+
+    <script src="/static/components.js"></script>
+    <script src="/static/app.js"></script>
+  </body>
+</html>
